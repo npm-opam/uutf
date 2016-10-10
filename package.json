@@ -40,7 +40,6 @@
         "dependency-env": "https://github.com/npm-ml/dependency-env.git",
         "substs": "https://github.com/yunxing/substs.git",
         "@opam-alpha/ocamlbuild": "*",
-        "@opam-alpha/cmdliner": "< 0.9.6",
         "nopam": "https://github.com/yunxing/nopam.git",
         "opam-installer-bin": "https://github.com/yunxing/opam-installer-bin.git"
     },
