@@ -1,0 +1,5 @@
+<**/*.{ml,mli}> : bin_annot
+<src> : include
+<test> : include
+<test/utftrip.*> : use_unix, package(cmdliner)
+<test/examples.*> : use_unix
